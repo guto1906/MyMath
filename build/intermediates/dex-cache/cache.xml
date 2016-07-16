@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Android\Desktop\MyMath\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="12a4ccfaa8937772fea64fb87c357b508e07dc40">
+        <dex dex="C:\Users\Android\Desktop\MyMath\app\build\intermediates\pre-dexed\debug\classes-df0d69aebc904b92e27cf5a17d9ba2fc4911e898.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f141026767292cf054aae7467b481bf1b2d0627">
+        <dex dex="C:\Users\Android\Desktop\MyMath\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-24c46cbde714be0842274322039416f341dd73a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android\Desktop\MyMath\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2694476ba83d6a86892517977e80fd1b67a221c">
+        <dex dex="C:\Users\Android\Desktop\MyMath\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-2ddee831ec6594218324eeea66dde609ff803e19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android\Desktop\MyMath\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5b33438d9d908799b11578fe540b30ea8d60134e">
+        <dex dex="C:\Users\Android\Desktop\MyMath\app\build\intermediates\pre-dexed\debug\classes-d2d849d093b2d3e43e84694d8a553fe6a2bbc2c0.jar" />
+    </item>
+
+</items>
